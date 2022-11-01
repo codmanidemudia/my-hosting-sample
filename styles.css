@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    border: 0em;
+    margin: 0em;
+    padding: 0em;
+}
+
+body{
+    background-color: hotpink;
+}
+
+h1{
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: black;
+}
